@@ -205,33 +205,10 @@ Example:
 
 ---
 
-# Advantages
 
-### Erosion
-
-- Removes unwanted small objects.
-- Helps separate touching objects.
-
-### Dilation
-
-- Enhances important structures.
-- Restores broken regions.
 
 ---
 
-# Limitations
-
-### Erosion
-
-- May remove important details.
-- Excessive erosion can destroy objects.
-
-### Dilation
-
-- May merge nearby objects.
-- Can increase noise size.
-
----
 
 # Result
 
@@ -245,9 +222,3 @@ Erosion and Dilation are essential morphological operations used in digital imag
 
 ---
 
-# References
-
-1. Gonzalez, R. C., & Woods, R. E. *Digital Image Processing*.
-2. OpenCV Documentation.
-3. Morphological Transformations in Image Processing.
-4. NumPy and OpenCV Python Libraries.
